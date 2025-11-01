@@ -1,2 +1,2 @@
 # begin
-this is a  beginner
+this is a  beginner tutuorial for git and github.
